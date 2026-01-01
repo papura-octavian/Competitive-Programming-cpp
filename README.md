@@ -4,4 +4,4 @@ using CLion
 
 # Profile
     https://codeforces.com/profile/satafacap-
-    https://leetcode.com/u/HeavyMetal_UZI/
+    https://leetcode.com/u/Thavian/

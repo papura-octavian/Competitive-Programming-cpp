@@ -1,4 +1,4 @@
 # Ignore files
-
+.idea/
 cmake-build-debug/
 CMakeLists.txt
