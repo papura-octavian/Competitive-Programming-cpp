@@ -5,3 +5,4 @@ CMakeLists.txt
 /.vscode
 /.gitignore
 /build
+/input-output
