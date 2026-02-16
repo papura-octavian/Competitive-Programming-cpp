@@ -1,7 +1,6 @@
 // https://leetcode.com/problems/string-to-integer-atoi/description/
 
 #include <bits/stdc++.h>
-#include <windows.h>
 
 #define FAST ios::sync_with_stdio(false); cin.tie(nullptr);
 typedef long long ll;
@@ -46,7 +45,7 @@ public:
         return str_to_int32(ans);
     }
 
-    int32_t str_to_int32(string s) {
+    private: int32_t str_to_int32(string s) {
         int i = 0, sign = 1;
 
         if (s[i] == '+' || s[i] == '-') {

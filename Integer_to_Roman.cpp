@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-#include <windows.h>
 
 #define FAST ios::sync_with_stdio(false); cin.tie(nullptr);
 typedef long long ll;
@@ -37,7 +36,7 @@ public:
         return ans;
     }
 
-    void gate_init(map<int, string>& gate) {
+    private: void gate_init(map<int, string>& gate) {
         gate[1] = "I";
         gate[4] = "IV";
         gate[5] = "V";
