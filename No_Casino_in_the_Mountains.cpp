@@ -1,7 +1,6 @@
 // https://codeforces.com/problemset/problem/2126/B
 
 #include <bits/stdc++.h>
-#include <windows.h>
 
 #define FAST ios::sync_with_stdio(false); cin.tie(nullptr);
 typedef long long ll;
